@@ -5,10 +5,6 @@ workContentTitre = {
     fr : ["Articles de recherche"]
 }
 
-workContentText = {
-    en : "",
-    fr : ""
-}
 
 const workItems = document.querySelectorAll("#work-items li");
 

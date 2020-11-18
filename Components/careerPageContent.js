@@ -79,16 +79,6 @@ toggleButton.addEventListener("click", ()=>{
         }
     }
     
-
-
-    // for(let i = 0 ; i<htmlElements.length ; i++){
-    //     if (careerContentFr){
-    //         htmlElements[i].innerHTML = careerTextContent.fr[i]
-    //     } else {
-    //         htmlElements[i].innerHTML = careerTextContent.en[i]
-    //     }
-        
-    // }
     for(let i=0 ; i<miniNavBarItems.length ; i++){
         if(careerContentFr){
             miniNavBarItems[i].innerHTML = miniNavBarItemContent.fr[i]

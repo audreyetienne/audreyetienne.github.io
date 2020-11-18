@@ -668,14 +668,10 @@ footer{
 
 @media (max-width:1200px){
     .mini-navbar{
-        left : auto;
-        right : 0;
+        visibility: hidden;
     }
 }
 @media (max-width:1000px){
-    .mini-navbar{
-        right : 0px;
-    }
     .colonne-1{
         font-size:0.9em;
     }
